@@ -1,0 +1,6 @@
+{
+  "name": "Simio Salvaje: Desafío a las Alturas",
+  "description": "Juego voxel en primera persona de plataformas arcade 3D con físicas realistas de barriles, modo cooperativo local, banda sonora retro-selvática dinámica, logros y guardado automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
